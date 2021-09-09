@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome, Servus and Hello! I'm glad you came across my GitHub Profil. Have fun while browsing through my projects. 👋
 
 <!--
 **hannesk95/hannesk95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
