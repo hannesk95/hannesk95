@@ -4,7 +4,7 @@
 - 👨🏻‍💻 I'm currently studying Electrical- and Computer Engineering at [Technical University of Munich (TUM)](https://www.tum.de/en/).
 - 💼 I'm currently working on multivariate time-series anomaly detection at [Siemens Mobility](https://www.mobility.siemens.com/) in Munich.
 - 🌎 I'm a globetrotter. I love traveling and besides Munich I have been living in Copenhagen and Singapore.
-- 📫 How to reach me: [E-Mail](mailto:hannes.kiechle@gmail.com), [LinkedIn](https://www.linkedin.com/in/johannes-kiechle-9b3142178/)
+- 📫 How to reach me: [GitHub Pages](https://hannesk95.github.io/), [E-Mail](mailto:hannes.kiechle@gmail.com), [LinkedIn](https://www.linkedin.com/in/johannes-kiechle-9b3142178/)
 
 <!--
 **hannesk95/hannesk95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
