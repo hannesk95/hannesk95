@@ -1,11 +1,16 @@
 # Welcome, Servus and Hello! 👋 
 ### I'm glad you came across my GitHub Profil. Have fun while browsing through my projects. 
 
+- 👨🏻‍💻 I'm currently studying Electrical- and Computer Engineering at Technical University of Munich (TUM).
+- 💼 I'm currently working on multivariate time-series anomaly detection at [Siemens Mobility](https://www.mobility.siemens.com/) in Munich.
+- 🌎 I'm a globetrotter. I love traveling and have been living in Copenhagen and Singapore.
+- 📫 How to reach me: [E-Mail](hannes.kiechle@gmail.com), [LinkedIn](https://www.linkedin.com/in/johannes-kiechle-9b3142178/)
+
 <!--
 **hannesk95/hannesk95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+👨🏻‍💻
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
