@@ -1,5 +1,5 @@
 # Welcome, Servus and Hello! 👋 
-### I'm glad you came across my GitHub Profil. Have fun while browsing through my projects. 
+### I'm pleased you came across my GitHub Profil. Have fun while browsing through my projects. 
 
 - 👨🏻‍💻 I'm currently studying Electrical- and Computer Engineering at [Technical University of Munich (TUM)](https://www.tum.de/en/).
 - 💼 I'm currently working on multivariate time-series anomaly detection at [Siemens Mobility](https://www.mobility.siemens.com/) in Munich.
