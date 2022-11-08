@@ -5,7 +5,7 @@
 - 🔭 I'm currently writing my Master Thesis in cooperation with the [University of Alberta](https://www.ualberta.ca/index.html).
 - 💼 I was formerly working on multivariate time-series anomaly detection at [Siemens Mobility](https://www.mobility.siemens.com/) in Munich.
 - 🌎 I'm a globetrotter. I love traveling and besides Munich I have been living in Copenhagen, Singapore and Edmonton. 
-- 📫 How to reach me: [GitHub Pages](https://hannesk95.github.io/), [E-Mail](mailto:hannes.kiechle@gmail.com), [LinkedIn](https://www.linkedin.com/in/johannes-kiechle-9b3142178/)
+- 📫 How to reach out: [GitHub Pages](https://hannesk95.github.io/), [E-Mail](mailto:hannes.kiechle@gmail.com), [LinkedIn](https://www.linkedin.com/in/johannes-kiechle-9b3142178/)
 
 <!--
 **hannesk95/hannesk95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
