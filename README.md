@@ -1,10 +1,10 @@
-# Welcome, Servus and Hello! 👋 
-### I'm pleased you came across my GitHub Profil. Have fun while browsing through my projects. 
+# Welcome, Servus, and Hello! 👋 
+### I'm pleased you came across my GitHub profile. Have fun while browsing through my projects. 
 
-- 👨🏻‍💻 I'm a graduate student in Electrical- and Computer Engineering at [Technical University of Munich (TUM)](https://www.tum.de/en/).
-- 🔭 I'm currently writing my Master Thesis in cooperation with the [University of Alberta](https://www.ualberta.ca/index.html).
-- 💼 I was formerly working on multivariate time-series anomaly detection at [Siemens Mobility](https://www.mobility.siemens.com/) in Munich.
-- 🌎 I'm a globetrotter: I love traveling and besides Munich, I have been living temporarily in Copenhagen, Singapore, and Edmonton. 
+- 👨🏻‍💻 M.Sc. graduate in Electrical- and Computer Engineering from [Technical University of Munich (TUM)](https://www.tum.de/en/).
+- 🔭 I'm currently working on the development of AI-based clinical decision support systems for soft-tissue sarcoma patients in cooperation with the chair of [Computational Imaging and AI in Medicine](https://compai-lab.github.io/).
+- 💼 I'm employed as a research assistant at [Department of Radiation Oncology - TUM MRI](https://radioonkologie.mri.tum.de/de/praeklinische-forschung/ag-ki-radiomics).
+- 🌎 I'm a globetrotter: I love traveling and besides Munich, I temporarily lived in Copenhagen, Singapore, and Edmonton. 
 - 📫 How to reach out: [GitHub Pages](https://hannesk95.github.io/), [E-Mail](mailto:hannes.kiechle@gmail.com), [LinkedIn](https://www.linkedin.com/in/johannes-kiechle/)
 
 <!--
