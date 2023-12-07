@@ -2,7 +2,7 @@
 ### I'm pleased you came across my GitHub profile. Have fun while browsing through my projects. 
 
 - 👨🏻‍💻 M.Sc. graduate in Electrical- and Computer Engineering from [Technical University of Munich (TUM)](https://www.tum.de/en/).
-- - 💼 I'm employed as a research assistant at [Department of Radiation Oncology - TUM MRI](https://radioonkologie.mri.tum.de/de/praeklinische-forschung/ag-ki-radiomics).
+- 💼 I'm employed as a research assistant at [Department of Radiation Oncology - TUM MRI](https://radioonkologie.mri.tum.de/de/praeklinische-forschung/ag-ki-radiomics).
 - 🔭 I'm currently working on the development of AI-based clinical decision support systems for soft-tissue sarcoma patients in cooperation with the chair of [Computational Imaging and AI in Medicine](https://compai-lab.github.io/).
 - 📫 How to reach out: [GitHub Pages](https://hannesk95.github.io/), [E-Mail](mailto:hannes.kiechle@gmail.com), [LinkedIn](https://www.linkedin.com/in/johannes-kiechle/)
 
