@@ -2,17 +2,17 @@
 
 ## About Me
 
-👨🏻‍💻 M.Sc. graduate in Electrical- and Computer Engineering from [Technical University of Munich (TUM)](https://www.tum.de/en/).
+👨🏻‍💻 **M.Sc. Graduate** in Electrical- and Computer Engineering from [Technical University of Munich (TUM)](https://www.tum.de/en/).
 
-🔭 PhD candidate at the [Institute of Computational Imaging and AI in Medicine](https://compai-lab.github.io/), Technical University of Munich (Prof. Dr. Julia A. Schnabel).
+🔭 **PhD Candidate** at the [Institute of Computational Imaging and AI in Medicine](https://compai-lab.github.io/), Technical University of Munich (Prof. Dr. Julia A. Schnabel).
 
-💼 Research associate in the [AI in Radio-Oncology Research Group](https://radioonkologie.mri.tum.de/de/ag-kuenstliche-intelligenz), TUM University Hospital Rechts der Isar (Prof. Dr. med. Jan Peeken).
+💼 **Research Associate** in the [AI in Radio-Oncology Research Group](https://radioonkologie.mri.tum.de/de/ag-kuenstliche-intelligenz), TUM University Hospital Rechts der Isar (Prof. Dr. med. Jan Peeken).
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-4A5568?style=flat-square&logo=maildotru&logoColor=white)](mailto:johannes.kiechle@tum.de)
-[![Website](https://img.shields.io/badge/Website-0065BD?style=flat-square&logo=link&logoColor=white)](https://hannesk95.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johannes-kiechle/)
+[![Website](https://img.shields.io/badge/Website-1B8A5A?style=flat-square&logo=link&logoColor=white)](https://hannesk95.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=QOKARtUAAAAJ&hl=en)
 
 </div>
