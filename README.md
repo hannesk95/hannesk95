@@ -1,10 +1,12 @@
-# Welcome, Servus, and Hello! 👋 
+* [ ] 
+
+# Welcome, Servus, and Hello! 👋
 
 ## About Me
 
 👨🏻‍💻 M.Sc. graduate in Electrical- and Computer Engineering from [Technical University of Munich (TUM)](https://www.tum.de/en/).
 
-💼 Research associate in the [AI & Radiomics Research Group](https://radioonkologie.mri.tum.de/de/ag-kuenstliche-intelligenz), Department of Radiation Oncology, TUM University Hospital Rechts der Isar - Supervisor: Prof. Dr. med. Jan Peeken.
+💼 Research associate in the [AI &amp; Radiomics Research Group](https://radioonkologie.mri.tum.de/de/ag-kuenstliche-intelligenz), Department of Radiation Oncology, TUM University Hospital Rechts der Isar - Supervisor: Prof. Dr. med. Jan Peeken.
 
 🔭 PhD candidate at the [Institute of Computational Imaging and AI in Medicine](https://compai-lab.github.io/), at the Technical University of Munich (TUM) - Supervisor: Prof. Dr. Julia A. Schnabel.
 
@@ -25,11 +27,12 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-9B3FCB?style=flat-square&logo=tensorflow&logoColor=white)
 ![SimpleITK](https://img.shields.io/badge/SimpleITK-E63965?style=flat-square&logoColor=white)
 
-
 **MLOps**
 
+![MLflow](https://img.shields.io/badge/MLflow-2E5FCE?style=flat-square&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights_%26_Biases-C98C00?style=flat-square&logo=weightsandbiases&logoColor=white)
 ![TensorBoard](https://img.shields.io/badge/TensorBoard-D1480C?style=flat-square&logoColor=white)
+
 
 **Tools**
 
@@ -37,6 +40,7 @@
 ![pytest](https://img.shields.io/badge/pytest-8FB52E?style=flat-square&logo=pytest&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-0E8C7F?style=flat-square&logo=linux&logoColor=white)
 ![Slurm](https://img.shields.io/badge/Slurm-6FA82E?style=flat-square&logoColor=white)
+![NVIDIA Enroot](https://img.shields.io/badge/NVIDIA_Enroot-6FA82E?style=flat-square&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-4E9E2E?style=flat-square&logoColor=white)
 ![3D Slicer](https://img.shields.io/badge/3D_Slicer-3FAE7C?style=flat-square&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-17A673?style=flat-square&logo=githubcopilot&logoColor=white)
