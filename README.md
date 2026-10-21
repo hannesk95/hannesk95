@@ -5,6 +5,7 @@
 👨🏻‍💻 **M.Sc. Graduate** in Electrical- and Computer Engineering from [Technical University of Munich (TUM)](https://www.tum.de/en/).
 
 🔭 **PhD Candidate** at the [Institute of Computational Imaging and AI in Medicine](https://compai-lab.github.io/), Technical University of Munich.
+
 💼 **Research Associate** in the [AI in Radio-Oncology Research Group](https://radioonkologie.mri.tum.de/de/ag-kuenstliche-intelligenz), TUM University Hospital Rechts der Isar.
 
 <div align="center">
