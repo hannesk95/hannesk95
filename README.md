@@ -32,31 +32,34 @@
 
 **Programming Languages**
 
-![Python](https://img.shields.io/badge/Python-147AA6?style=flat-square&logo=python&logoColor=white)
-![C++ C](https://img.shields.io/badge/C++/C-2E5FCE?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)
-![Bash](https://img.shields.io/badge/Bash-5847D6?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++ C](https://img.shields.io/badge/C++/C-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-555555?style=flat-square)
 
 **Machine Learning, Deep Learning & Computer Vision**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-7C3AED?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-9B3FCB?style=flat-square&logo=tensorflow&logoColor=white)
-![SimpleITK](https://img.shields.io/badge/SimpleITK-E63965?style=flat-square&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PyTorch%20Geometric](https://img.shields.io/badge/PyTorch%20Geometric-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![SimpleITK](https://img.shields.io/badge/SimpleITK-4B8BBE?style=flat-square)
 
 **MLOps**
 
-![MLflow](https://img.shields.io/badge/MLflow-2E5FCE?style=flat-square&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights_%26_Biases-C98C00?style=flat-square&logo=weightsandbiases&logoColor=white)
-![TensorBoard](https://img.shields.io/badge/TensorBoard-D1480C?style=flat-square&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Weights%20%26%20Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=flat-square&logo=tensorboard&logoColor=white)
 
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-1B8A5A?style=flat-square&logo=git&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-8FB52E?style=flat-square&logo=pytest&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0E8C7F?style=flat-square&logo=linux&logoColor=white)
-![Slurm](https://img.shields.io/badge/Slurm-6FA82E?style=flat-square&logoColor=white)
-![NVIDIA Enroot](https://img.shields.io/badge/NVIDIA_Enroot-6FA82E?style=flat-square&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-4E9E2E?style=flat-square&logoColor=white)
-![3D Slicer](https://img.shields.io/badge/3D_Slicer-3FAE7C?style=flat-square&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-17A673?style=flat-square&logo=githubcopilot&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F03C2E?style=flat-square&logo=git&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Slurm](https://img.shields.io/badge/Slurm-2D5C88?style=flat-square)
+![NVIDIA Enroot](https://img.shields.io/badge/NVIDIA%20Enroot-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![3D Slicer](https://img.shields.io/badge/3D%20Slicer-696969?style=flat-square)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
