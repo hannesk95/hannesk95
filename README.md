@@ -4,11 +4,27 @@
 
 👨🏻‍💻 M.Sc. graduate in Electrical- and Computer Engineering from [Technical University of Munich (TUM)](https://www.tum.de/en/).
 
-💼 Research associate in the [AI &amp; Radiomics Research Group](https://radioonkologie.mri.tum.de/de/ag-kuenstliche-intelligenz), Department of Radiation Oncology, TUM University Hospital Rechts der Isar - Supervisor: Prof. Dr. med. Jan Peeken.
+🔭 PhD candidate at the [Institute of Computational Imaging and AI in Medicine](https://compai-lab.github.io/), Technical University of Munich (Prof. Dr. Julia A. Schnabel).
 
-🔭 PhD candidate at the [Institute of Computational Imaging and AI in Medicine](https://compai-lab.github.io/), at the Technical University of Munich (TUM) - Supervisor: Prof. Dr. Julia A. Schnabel.
+💼 Research associate in the [AI in Radio-Oncology Research Group](https://radioonkologie.mri.tum.de/de/ag-kuenstliche-intelligenz), TUM University Hospital Rechts der Isar (Prof. Dr. med. Jan Peeken).
 
-📫 Connect with me: [E-Mail](mailto:johannes.kiechle@tum.de) / [Website](https://hannesk95.github.io/) / [LinkedIn](https://www.linkedin.com/in/johannes-kiechle/) / [GoogleScholar](https://scholar.google.com/citations?user=QOKARtUAAAAJ&hl=en)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-4A5568?style=flat-square&logo=maildotru&logoColor=white)](mailto:johannes.kiechle@tum.de)
+[![Website](https://img.shields.io/badge/Website-0065BD?style=flat-square&logo=link&logoColor=white)](https://hannesk95.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johannes-kiechle/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=QOKARtUAAAAJ&hl=en)
+
+</div>
+
+<!-- <div align="center">
+  
+[![](https://img.shields.io/badge/E--Mail-blue)](mailto:johannes.kiechle@tum.de)
+[![](https://img.shields.io/badge/Website-blue)](https://hannesk95.github.io/)
+[![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/johannes-kiechle/)
+[![](https://img.shields.io/badge/GoogleScholar-blue)](https://scholar.google.com/citations?user=QOKARtUAAAAJ&hl=en)
+
+</div> -->
 
 ## Tech stack
 
