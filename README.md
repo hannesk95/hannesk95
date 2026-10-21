@@ -1,6 +1,4 @@
-* [ ] 
-
-# Welcome, Servus, and Hello! 👋
+# Welcome, Servus, and Hello, I'm Hannes! 👋
 
 ## About Me
 
